@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<component>
+	<schema_version>3.0</schema_version>
+	<name>Generic-ThermSample-Fixed-DoubleClear-Air-AlumSpacer-1</name>
+	<uid>2aa9cd1b-7d2a-4a82-806a-f87ce3263555</uid>
+	<version_id>0f3552d6-c353-5726-b7f6-37bd6bcb696f</version_id>
+	<xml_checksum/>
+	<display_name/>
+	<description/>
+	<modeler_description/>
+	<tags>
+		<tag>Construction Assembly.Fenestration.Window</tag>
+	</tags>
+	<attributes>
+		<attribute>
+			<name>Manufacturer</name>
+			<value>Generic</value>
+			<datatype>string</datatype>
+		</attribute>
+		<attribute>
+			<name>U-factor</name>
+			<value>2.683719</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>SHGC</name>
+			<value>0.629168</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>Solar Heat Gain Coefficient</name>
+			<value>0.629168</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>Visible Light Transmittance</name>
+			<value>0.682002</value>
+			<datatype>float</datatype>
+		</attribute>
+	</attributes>
+	<source/>
+	<files>
+		<file>
+			<version>
+				<software_program>EnergyPlus</software_program>
+				<identifier>9.5.0</identifier>
+			</version>
+			<filename>Generic-ThermSample-Fixed-DoubleClear-Air-AlumSpacer-1_Avg.idf</filename>
+			<filetype>idf</filetype>
+			<usage_type>resource</usage_type>
+			<checksum/>
+		</file>
+		<file>
+			<version>
+				<software_program>EnergyPlus</software_program>
+				<identifier>9.5.0</identifier>
+			</version>
+			<filename>Generic-ThermSample-Fixed-DoubleClear-Air-AlumSpacer-1_Spec.idf</filename>
+			<filetype>idf</filetype>
+			<usage_type>resource</usage_type>
+			<checksum/>
+		</file>
+	</files>
+	<costs/>
+</component>

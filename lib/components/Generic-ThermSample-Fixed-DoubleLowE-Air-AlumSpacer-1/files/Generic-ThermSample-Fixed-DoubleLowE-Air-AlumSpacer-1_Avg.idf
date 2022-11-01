@@ -1,0 +1,93 @@
+!       Window Material/Construction file with spectral data in IDF format 
+
+
+!----------------------------------------------------- 
+!       Window Glass Layers 
+!----------------------------------------------------- 
+
+WindowMaterial:Glazing,
+Glass_2186_LayerAvg,                                 !- Layer name : LoE179-5.CIG
+SpectralAverage,                                    !- Optical Data Type
+,                                                   !- Spectral Data name
+0.004750,                                           !- Thickness
+0.665254,                                           !- Solar Transmittance
+1.348984e-01,                                      !- Solar Front Reflectance
+1.671977e-01,                                      !- Solar Back Reflectance
+0.861298,                                           !- Visible Transmittance
+0.080171,                                           !-Visible Front Reflectance
+0.063853,                                           !-Visible Back reflectance
+0.000000,                                           !- IR Transmittance
+0.840000,                                           !-Front Emissivity
+0.110000,                                           !-Back Emissivity
+1.000000;                                           !-Conductivity
+
+
+WindowMaterial:Glazing,
+Glass_2003_LayerAvg,                                 !- Layer name : Clr-5.CIG
+SpectralAverage,                                    !- Optical Data Type
+,                                                   !- Spectral Data name
+0.004750,                                           !- Thickness
+0.810825,                                           !- Solar Transmittance
+7.199118e-02,                                      !- Solar Front Reflectance
+7.199118e-02,                                      !- Solar Back Reflectance
+0.896779,                                           !- Visible Transmittance
+0.080200,                                           !-Visible Front Reflectance
+0.080200,                                           !-Visible Back reflectance
+0.000000,                                           !- IR Transmittance
+0.840000,                                           !-Front Emissivity
+0.840000,                                           !-Back Emissivity
+1.000000;                                           !-Conductivity
+
+
+!----------------------------------------------------------------------
+!         Window Gas Layers
+!----------------------------------------------------------------------
+
+WindowMaterial:Gas,
+Gap_1_W_0_0165,                                     !- gap name - Air
+Air,                                                !- type
+0.0165;                                             !- thickness
+
+
+!----------------------------------------------------- 
+!       Window Construction 
+!----------------------------------------------------- 
+
+CONSTRUCTION,
+GlzSys_5,                                    !- Glazing System name: PFM02
+Glass_2186_LayerAvg,                             !- glass name : LoE179-5.CIG
+Gap_1_W_0_0165,                              !- gap name - Air
+Glass_2003_LayerAvg;                             !- glass name : Clr-5.CIG
+
+
+!----------------------------------------------------- 
+!       Window Frames and Dividers Data 
+!----------------------------------------------------- 
+WindowProperty:FrameAndDivider,
+Generic-ThermSample-Fixed-DoubleLowE-Air-AlumSpacer-1-Frame,                                   !- User Supplied Frame/Divider Name
+0.042876,                                      !- Frame Width {m}
+,                                              !- Frame Outside Projection {m}
+,                                              !- Frame Insider Projection {m}
+3.335431,                                     !- Frame Conductance {w/m2-K}
+1.505588,                                      !- Ratio of Frame-Edge Glass Conductance to Center-of-glass Co
+0.300000,                                      !- Frame Solar absorptance
+0.300000,                                      !- Frame Visible absorptance
+0.9,                                           !- Frame Thermal hemispherical Emissivity
+,                                              !- Divider Type
+,                                              !- Divider Width {m}
+,                                              !- Number of Horizontal Dividers
+,                                              !- Number of Vertical Dividers
+,                                              !- Divider Outside Projection {m}
+,                                               !- Divider Insider Projection {m}
+,                                              !- Divider Conductance {w/m2-K}
+,                                              !- Ratio of Divider-Edge Glass Conductance to Center-Of-Glass
+,                                              !- Divider Solar Absorptance
+,                                              !- Divider Visible Absorptance
+,                                              !- Divider Thermal Hemispherical Emissivity
+,                                              !- Outside Reveal Solar Absorptance
+,                                              !- Inside Sill Depth (m)
+,                                              !- Inside Sill Solar Absorptance
+,                                              !- Inside Reveal Depth (m)
+;                                              !- Inside Reveal Solar Absorptance
+
+

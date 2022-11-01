@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<component>
+	<schema_version>3.0</schema_version>
+	<name>Generic-Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1</name>
+	<uid>ed91b730-106e-4f7d-b232-e43ed9e277ea</uid>
+	<version_id>92d05d54-9e95-5df3-905d-45cf86b75bc9</version_id>
+	<xml_checksum/>
+	<display_name/>
+	<description/>
+	<modeler_description/>
+	<tags>
+		<tag>Construction Assembly.Fenestration.Window</tag>
+	</tags>
+	<attributes>
+		<attribute>
+			<name>Manufacturer</name>
+			<value>Generic</value>
+			<datatype>string</datatype>
+		</attribute>
+		<attribute>
+			<name>U-factor</name>
+			<value>1.973812</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>SHGC</name>
+			<value>0.338189</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>Solar Heat Gain Coefficient</name>
+			<value>0.338189</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>Visible Light Transmittance</name>
+			<value>0.483322</value>
+			<datatype>float</datatype>
+		</attribute>
+	</attributes>
+	<source/>
+	<files>
+		<file>
+			<version>
+				<software_program>EnergyPlus</software_program>
+				<identifier>9.5.0</identifier>
+			</version>
+			<filename>Generic-Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1_Avg.idf</filename>
+			<filetype>idf</filetype>
+			<usage_type>resource</usage_type>
+			<checksum/>
+		</file>
+		<file>
+			<version>
+				<software_program>EnergyPlus</software_program>
+				<identifier>9.5.0</identifier>
+			</version>
+			<filename>Generic-Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1_Spec.idf</filename>
+			<filetype>idf</filetype>
+			<usage_type>resource</usage_type>
+			<checksum/>
+		</file>
+	</files>
+	<costs/>
+</component>

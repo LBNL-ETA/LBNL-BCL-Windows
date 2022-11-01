@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<component>
+	<schema_version>3.0</schema_version>
+	<name>Generic-TRR99-HorizontalSlider-Alum-TripleLowE HM-Air-SteelSpacer-1</name>
+	<uid>cfcfc4c3-a887-4d6c-af15-d9a9d289f69c</uid>
+	<version_id>e4e9e4f2-843c-58bb-819f-fab67b65cfd7</version_id>
+	<xml_checksum/>
+	<display_name/>
+	<description/>
+	<modeler_description/>
+	<tags>
+		<tag>Construction Assembly.Fenestration.Window</tag>
+	</tags>
+	<attributes>
+		<attribute>
+			<name>Manufacturer</name>
+			<value>Generic</value>
+			<datatype>string</datatype>
+		</attribute>
+		<attribute>
+			<name>U-factor</name>
+			<value>2.760558</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>SHGC</name>
+			<value>0.314969</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>Solar Heat Gain Coefficient</name>
+			<value>0.314969</value>
+			<datatype>float</datatype>
+		</attribute>
+		<attribute>
+			<name>Visible Light Transmittance</name>
+			<value>0.499902</value>
+			<datatype>float</datatype>
+		</attribute>
+	</attributes>
+	<source/>
+	<files>
+		<file>
+			<version>
+				<software_program>EnergyPlus</software_program>
+				<identifier>9.5.0</identifier>
+			</version>
+			<filename>Generic-TRR99-HorizontalSlider-Alum-TripleLowE HM-Air-SteelSpacer-1_Avg.idf</filename>
+			<filetype>idf</filetype>
+			<usage_type>resource</usage_type>
+			<checksum/>
+		</file>
+		<file>
+			<version>
+				<software_program>EnergyPlus</software_program>
+				<identifier>9.5.0</identifier>
+			</version>
+			<filename>Generic-TRR99-HorizontalSlider-Alum-TripleLowE HM-Air-SteelSpacer-1_Spec.idf</filename>
+			<filetype>idf</filetype>
+			<usage_type>resource</usage_type>
+			<checksum/>
+		</file>
+	</files>
+	<costs/>
+</component>
