@@ -2,8 +2,8 @@
 <component>
 	<schema_version>3.0</schema_version>
 	<name>Generic-ThermSample-Fixed-DoubleClear-Air-AlumSpacer-1</name>
-	<uid>2aa9cd1b-7d2a-4a82-806a-f87ce3263555</uid>
-	<version_id>0f3552d6-c353-5726-b7f6-37bd6bcb696f</version_id>
+	<uid>1ffa99ef-2223-4e34-bafa-0146fc6d36ce</uid>
+	<version_id>7d5b2789-594f-55e9-b5ab-98dc7181f1b7</version_id>
 	<xml_checksum/>
 	<display_name/>
 	<description/>
@@ -56,6 +56,16 @@
 				<identifier>9.5.0</identifier>
 			</version>
 			<filename>Generic-ThermSample-Fixed-DoubleClear-Air-AlumSpacer-1_Spec.idf</filename>
+			<filetype>idf</filetype>
+			<usage_type>resource</usage_type>
+			<checksum/>
+		</file>
+		<file>
+			<version>
+				<software_program>EnergyPlus</software_program>
+				<identifier>9.5.0</identifier>
+			</version>
+			<filename>Generic-ThermSample-Fixed-DoubleClear-Air-AlumSpacer-1_Bsdf.idf</filename>
 			<filetype>idf</filetype>
 			<usage_type>resource</usage_type>
 			<checksum/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <component>
 	<schema_version>3.0</schema_version>
-	<name>Generic-ThermSample-Fixed-DoubleLowE-Air-AlumSpacer-1</name>
-	<uid>a3c6f8eb-a8f7-459e-b363-733bccf1bda2</uid>
-	<version_id>e33a2aeb-670f-5ec2-ac17-f9302903a59c</version_id>
+	<name>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1</name>
+	<uid>4e3fdd5c-c390-445b-b18b-0ae335234de6</uid>
+	<version_id>bb8a9007-9b9c-5f7b-a460-ac06fbf2cf29</version_id>
 	<xml_checksum/>
 	<display_name/>
 	<description/>
@@ -19,22 +19,22 @@
 		</attribute>
 		<attribute>
 			<name>U-factor</name>
-			<value>2.017673</value>
+			<value>3.127928</value>
 			<datatype>float</datatype>
 		</attribute>
 		<attribute>
 			<name>SHGC</name>
-			<value>0.529966</value>
+			<value>0.607401</value>
 			<datatype>float</datatype>
 		</attribute>
 		<attribute>
 			<name>Solar Heat Gain Coefficient</name>
-			<value>0.529966</value>
+			<value>0.607401</value>
 			<datatype>float</datatype>
 		</attribute>
 		<attribute>
 			<name>Visible Light Transmittance</name>
-			<value>0.654087</value>
+			<value>0.672392</value>
 			<datatype>float</datatype>
 		</attribute>
 	</attributes>
@@ -45,7 +45,7 @@
 				<software_program>EnergyPlus</software_program>
 				<identifier>9.5.0</identifier>
 			</version>
-			<filename>Generic-ThermSample-Fixed-DoubleLowE-Air-AlumSpacer-1_Avg.idf</filename>
+			<filename>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Avg.idf</filename>
 			<filetype>idf</filetype>
 			<usage_type>resource</usage_type>
 			<checksum/>
@@ -55,7 +55,7 @@
 				<software_program>EnergyPlus</software_program>
 				<identifier>9.5.0</identifier>
 			</version>
-			<filename>Generic-ThermSample-Fixed-DoubleLowE-Air-AlumSpacer-1_Spec.idf</filename>
+			<filename>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Spec.idf</filename>
 			<filetype>idf</filetype>
 			<usage_type>resource</usage_type>
 			<checksum/>
@@ -65,7 +65,7 @@
 				<software_program>EnergyPlus</software_program>
 				<identifier>9.5.0</identifier>
 			</version>
-			<filename>Generic-ThermSample-Fixed-DoubleLowE-Air-AlumSpacer-1_Bsdf.idf</filename>
+			<filename>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Bsdf.idf</filename>
 			<filetype>idf</filetype>
 			<usage_type>resource</usage_type>
 			<checksum/>
