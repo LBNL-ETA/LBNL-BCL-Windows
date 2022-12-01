@@ -2,10 +2,10 @@
 <component>
 	<schema_version>3.0</schema_version>
 	<name>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1</name>
-	<uid>4e3fdd5c-c390-445b-b18b-0ae335234de6</uid>
-	<version_id>bb8a9007-9b9c-5f7b-a460-ac06fbf2cf29</version_id>
+	<uid>c1927eb8-b1c2-4555-aed5-3e7ce842484f</uid>
+	<version_id>692d1e45-bbb8-5d68-846d-2ab37890af57</version_id>
 	<xml_checksum/>
-	<display_name/>
+	<display_name>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1</display_name>
 	<description/>
 	<modeler_description/>
 	<tags>
@@ -47,7 +47,6 @@
 			</version>
 			<filename>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Avg.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -57,7 +56,6 @@
 			</version>
 			<filename>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Spec.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -67,7 +65,6 @@
 			</version>
 			<filename>Generic-MillFinish-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Bsdf.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 	</files>

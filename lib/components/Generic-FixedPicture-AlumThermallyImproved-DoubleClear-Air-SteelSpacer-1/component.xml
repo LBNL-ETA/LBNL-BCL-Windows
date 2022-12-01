@@ -2,10 +2,10 @@
 <component>
 	<schema_version>3.0</schema_version>
 	<name>Generic-FixedPicture-AlumThermallyImproved-DoubleClear-Air-SteelSpacer-1</name>
-	<uid>5eebc5b0-1eb8-42d6-b193-30c0434acbfb</uid>
-	<version_id>1370e4b5-2b95-530f-bd0b-a16153a0cceb</version_id>
+	<uid>bc2b494b-4cc4-494f-bd9c-5761f64df689</uid>
+	<version_id>41f8f717-338d-5f9b-b39b-1c29bec19c94</version_id>
 	<xml_checksum/>
-	<display_name/>
+	<display_name>Generic-FixedPicture-AlumThermallyImproved-DoubleClear-Air-SteelSpacer-1</display_name>
 	<description/>
 	<modeler_description/>
 	<tags>
@@ -47,7 +47,6 @@
 			</version>
 			<filename>Generic-FixedPicture-AlumThermallyImproved-DoubleClear-Air-SteelSpacer-1_Avg.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -57,7 +56,6 @@
 			</version>
 			<filename>Generic-FixedPicture-AlumThermallyImproved-DoubleClear-Air-SteelSpacer-1_Spec.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -67,7 +65,6 @@
 			</version>
 			<filename>Generic-FixedPicture-AlumThermallyImproved-DoubleClear-Air-SteelSpacer-1_Bsdf.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 	</files>

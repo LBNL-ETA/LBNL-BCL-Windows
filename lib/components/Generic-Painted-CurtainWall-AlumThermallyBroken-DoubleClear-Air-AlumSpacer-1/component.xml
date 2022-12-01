@@ -2,10 +2,10 @@
 <component>
 	<schema_version>3.0</schema_version>
 	<name>Generic-Painted-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1</name>
-	<uid>9f4ac8fe-2da4-45f7-8bca-112f5433959e</uid>
-	<version_id>2f9945f3-caa1-52c3-b649-33d636978405</version_id>
+	<uid>03e713ab-0147-40f9-ad80-a138ff137d82</uid>
+	<version_id>ab54bf25-9b7c-560a-827b-0f774d2ca016</version_id>
 	<xml_checksum/>
-	<display_name/>
+	<display_name>Generic-Painted-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1</display_name>
 	<description/>
 	<modeler_description/>
 	<tags>
@@ -47,7 +47,6 @@
 			</version>
 			<filename>Generic-Painted-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Avg.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -57,7 +56,6 @@
 			</version>
 			<filename>Generic-Painted-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Spec.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -67,7 +65,6 @@
 			</version>
 			<filename>Generic-Painted-CurtainWall-AlumThermallyBroken-DoubleClear-Air-AlumSpacer-1_Bsdf.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 	</files>

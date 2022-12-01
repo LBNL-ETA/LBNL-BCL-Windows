@@ -2,10 +2,10 @@
 <component>
 	<schema_version>3.0</schema_version>
 	<name>Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1</name>
-	<uid>dca49102-8af4-4ef0-bfe7-742c9e4b8f7e</uid>
-	<version_id>bfc8fcd8-0c56-5ebb-ac6a-d65df8da90f1</version_id>
+	<uid>0f9215bc-e123-462b-b2d4-021370bdea62</uid>
+	<version_id>de37def8-1fb3-5fbf-b78e-8d032ca9c725</version_id>
 	<xml_checksum/>
-	<display_name/>
+	<display_name>Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1</display_name>
 	<description/>
 	<modeler_description/>
 	<tags>
@@ -47,7 +47,6 @@
 			</version>
 			<filename>Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1_Avg.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -57,7 +56,6 @@
 			</version>
 			<filename>Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1_Spec.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 		<file>
@@ -67,7 +65,6 @@
 			</version>
 			<filename>Generic-Casement-Fiberglass-DoubleLowE-Air-AlumSpacer-1_Bsdf.idf</filename>
 			<filetype>idf</filetype>
-			<usage_type>resource</usage_type>
 			<checksum/>
 		</file>
 	</files>
